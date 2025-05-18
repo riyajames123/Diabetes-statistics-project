@@ -52,11 +52,10 @@ This repository contains the full analysis pipeline and results for a statistica
 
 | File | Description |
 |------|-------------|
-| `final_analysis.ipynb` | Jupyter notebook containing the full analysis pipeline |
+| `diabetes_pca_analysis.ipynb` | Jupyter notebook containing the full analysis pipeline |
 | `README.md` | This file |
-| `results/` | Folder containing key tables and figures |
-| `data/` | (optional) Folder with input datasets (not included due to size/privacy) |
-| `supplementary/` | Full tables for pairwise tests and correlation analysis |
+| `data/` | Folder with input datasets |
+
 
 ---
 
