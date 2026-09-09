@@ -67,8 +67,6 @@ https://doi.org/10.1038/s42255-021-00420-9
 
 ---
 
-## 💬 Contact
 
-For questions or collaboration, feel free to reach out at riyajames1909@gmail.com
 
 
